@@ -1,0 +1,6 @@
+PLAYER C: gets 2 and 3 with a sum 5
+PLAYER D: gets 2 and 5 with a sum 7
+PLAYER A: gets 6 and 1 with a sum 7
+PLAYER B: gets 6 and 5 with a sum 11
+PLAYER C: gets 5 and 2 with a sum 7
+DEALER: The winning team is A and C

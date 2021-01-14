@@ -1,0 +1,6 @@
+PLAYER D: gets 4 and 1 with a sum 5
+PLAYER A: gets 3 and 5 with a sum 8
+PLAYER B: gets 5 and 5 with a sum 10
+PLAYER C: gets 4 and 6 with a sum 10
+PLAYER D: gets 6 and 4 with a sum 10
+DEALER: The winning team is B and D
